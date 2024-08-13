@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-https://childish-banjo-a59.notion.site/MRE-124538acfd9e4649baa49c2ea588d1e0
+TODO: add Go and C(++) in here
 
-<!--
-[![my GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaptros&size_weight=0&count_weight=1&layout=compact&theme=cobalt&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![my GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaptros&size_weight=0.5&count_weight=0.5&layout=compact&theme=cobalt&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Zaptros/Zaptros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
