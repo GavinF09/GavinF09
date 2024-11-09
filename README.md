@@ -4,6 +4,11 @@ TODO: add Go and C(++) in here
 
 [![my GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaptros&size_weight=0.5&count_weight=0.5&layout=compact&theme=cobalt&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
+### FAQ
+<details>
+  <summary>What/why the username?</summary>
+  Galvin is a English name that came up as a casual joke during work, and I do like its etymology. The additional 'L' is to make it a bit more unique as a username, and in general seems more professional than using my 'gaming' username. 
+</details>
 
 <!--
 **Zaptros/Zaptros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
