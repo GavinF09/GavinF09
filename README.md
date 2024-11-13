@@ -11,7 +11,7 @@ TODO: add Go and C(++) in here
 ### FAQ
 <details>
   <summary>What/why the username?</summary>
-  Galvin is a English name that came up as a casual joke during work, and I do like its etymology. The additional 'L' is to make it a bit more unique as a username, and in general seems more professional than using my 'gaming' username. 
+  Gavin is a English name that came up as a casual joke during work, and I do like its etymology. Also seems more professional than using my 'gaming' username to potential employers.
 </details>
 
 <!--
