@@ -1,9 +1,9 @@
 ## Hi there 👋
 <!--
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=GallvinF&show_icons=false&theme=noctis_minimus)
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinF09&show_icons=false&theme=noctis_minimus)
 -->
 
-[![my GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GallvinF&size_weight=0.5&count_weight=0.5&layout=donut-vertical&theme=noctis_minimus&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![my GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinF09&size_weight=0.5&count_weight=0.5&layout=donut-vertical&theme=noctis_minimus&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 TODO: add Go and C(++) in here
 
