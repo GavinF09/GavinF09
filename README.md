@@ -5,7 +5,8 @@
 
 [Personal Website](https://gavinf09.github.io/)
 
-[![my GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinF09&size_weight=0.5&count_weight=0.5&layout=donut-vertical&theme=noctis_minimus&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![GavinF09 GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GavinF09&size_weight=0.5&count_weight=0.5&layout=donut-vertical&theme=noctis_minimus&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+![GavinF09 GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinF09&show_icons=true&theme=noctis_minimus)
 
 TODO: add Go and C(++) in here
 
